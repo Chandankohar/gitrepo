@@ -1,0 +1,3 @@
+[submodule "gitrepo"]
+	path = gitrepo
+	url = https://github.com/Chandankohar/gitrepo.git
